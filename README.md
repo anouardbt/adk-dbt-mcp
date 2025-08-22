@@ -28,4 +28,5 @@ For detailed information about:
 
 - "What metrics are available?"
 - "Show revenue by region for this year"
-- "Execute SQL: SELECT * FROM customers LIMIT 10"
+- "What's the avaible models to build XYZ"
+- "What are the models that not healthy"
