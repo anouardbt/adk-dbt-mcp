@@ -1,6 +1,7 @@
 # Simple dbt MCP Agent
 
-A simplified dbt analytics agent that connects to a dbt MCP remote server for querying business metrics and data using Google Vertex AI.
+A simplified dbt analytics agent that connects to a dbt MCP remote server for querying business metrics and dbt project metadaa using Google's ADK.
+
 
 ## Quick Setup
 
