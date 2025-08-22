@@ -12,9 +12,9 @@ A simplified dbt analytics agent that connects to a dbt MCP remote server for qu
 
 2. **Configure your environment in `.env`** (see `env.example` for all options)
 
-3. **Run the agent:**
+3. **Copy the agent to your agents directory and run adk agent:**
    ```bash
-   adk web dbt_simple.agent:root_agent
+   adk web [AGENT DIR]
    ```
 
 ## Documentation
